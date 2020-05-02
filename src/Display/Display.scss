@@ -1,0 +1,11 @@
+.display {
+  grid-column: 1/5;
+  grid-row: 1;
+  background-color: #433437;
+  color: #fff;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  font-size: 25px;
+  padding: 10px;
+}

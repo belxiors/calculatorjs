@@ -1,0 +1,16 @@
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #921029;
+
+  &.number {
+    background-color: #fff;
+    color: #000;
+  }
+
+  &.action {
+    background-color: #f2274f;
+    color: #fff;
+  }
+}
