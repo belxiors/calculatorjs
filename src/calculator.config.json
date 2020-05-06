@@ -1,0 +1,73 @@
+[
+  {
+    "actions": [
+      {
+        "className": "r2 c1-4",
+        "value": "clear"
+      },
+      {
+        "className": "r2 c4-5",
+        "value": "/"
+      },
+      {
+        "className": "r3 c4-5",
+        "value": "*"
+      },
+      {
+        "className": "r4 c4-5",
+        "value": "-"
+      },
+      {
+        "className": "r5 c4-5",
+        "value": "+"
+      },
+      {
+        "className": "r6 c4-5",
+        "value": "="
+      }
+    ],
+    "inputs": [
+      {
+        "className": "r3 c1-2",
+        "value": "7"
+      },
+
+      {
+        "className": "r3 c3-4",
+        "value": "9"
+      },
+      {
+        "className": "r4 c1-2",
+        "value": "4"
+      },
+      {
+        "className": "r4 c2-3",
+        "value": "5"
+      },
+      {
+        "className": "r4 c3-4",
+        "value": "6"
+      },
+      {
+        "className": "r5 c1-2",
+        "value": "1"
+      },
+      {
+        "className": "r5 c2-3",
+        "value": "2"
+      },
+      {
+        "className": "r5 c3-4",
+        "value": "3"
+      },
+      {
+        "className": "r6 c1-3",
+        "value": "0"
+      },
+      {
+        "className": "r6 c3-4",
+        "value": "."
+      }
+    ]
+  }
+]
